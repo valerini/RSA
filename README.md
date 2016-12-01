@@ -1,9 +1,14 @@
 # RSA
 
-1. First always go
+This repo contains all the files necessary to render azbuka.stanford.edu.
+The main file where everything starts is index.html.
+
+If you want to edit:
+
+1. First always do
 > git pull
 
-2. After edits check that everything renders well in the browser by openning index.html local file.
+2. After edits check that everything renders well in the browser by opening index.html local file.
 
 3. Commit changes to the shared repository:
 > git add "your files"
