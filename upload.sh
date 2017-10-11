@@ -1,1 +1,1 @@
-scp *.html valerini@corn.stanford.edu:/afs/ir.stanford.edu/group/su-russians/WWW
+scp *.html klevtsov@corn.stanford.edu:/afs/ir.stanford.edu/group/su-russians/WWW
