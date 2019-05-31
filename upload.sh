@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-scp *.html klevtsov@corn.stanford.edu:/afs/ir.stanford.edu/group/su-russians/WWW
+scp *.html klevtsov@cardinal.stanford.edu:/afs/ir.stanford.edu/group/su-russians/WWW
